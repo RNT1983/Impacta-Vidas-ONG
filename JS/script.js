@@ -1,1 +1,1 @@
-
+document.addEventListener('DOMContentLoaded',()=>{console.log('Impacta Vidas pronto!')});
